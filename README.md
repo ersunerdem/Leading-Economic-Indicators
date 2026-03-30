@@ -7,7 +7,7 @@ not be typed into your script.)
 
 Once that is done, you can run the indicators notebook script properly. It will show graphs for all ten leading economic indicators (per Mankiw's Macroeconomics textbook.)
 
-The following Python packages are required to run this script:
+The following Python packages are required to run this script\:
 requests
 dotenv
 pandas
