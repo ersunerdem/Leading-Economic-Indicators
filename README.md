@@ -9,14 +9,14 @@ Once that is done, you can run the indicators notebook script properly. It will 
 
 The following Python packages are required to run this script\:
 
-requests
+-requests
 
-dotenv
+-dotenv
 
-pandas
+-pandas
 
-matplotlib.pyplot
+-matplotlib.pyplot
 
-plotly.express
+-plotly.express
 
-datetime
+-datetime
